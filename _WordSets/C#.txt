@@ -1,0 +1,156 @@
+sbyte
+short
+int
+long
+byte
+ushort
+uint
+ulong
+char
+float
+double
+decimal
+bool
+string
+sbyte[]
+short[]
+int[]
+long[]
+byte[]
+ushort[]
+uint[]
+ulong[]
+char[]
+float[]
+double[]
+decimal[]
+bool[]
+string[]
+enum
+scruct
+null
+var
+class
+class{}
+interface
+object
+delegate
+private
+public
+protected
+internal
+static
+switch
+switch(){}
+case
+break
+if
+if()
+if(){}
+;
+.
+/
+\
+()
+[]
+{}
+[184, 314]
+[13][31]
+%
+/
+*
+-
++
+a + b
+--
+++
+x--
+x++
+++x
+--x
+=
+==
+!=
+>
+x > y
+<
+x < y
+<=
+>=
+>>
+<<
+x << y
+x >> y
+~x
+is
+as
+&
+x & y
+|
+x | y
+^
+x ^ y
+&&
+x && y
+||
+x || y
+??
+x ?? y
+:
+x ? y : z
+default
+for
+for()
+for(){}
+while
+while()
+while(){}
+foreach
+foreach()
+foreach(){}
+continue
+goto
+IEnumerable
+yield
+return
+get
+set
+this
+this.
+in
+new
+Rect myRect = new Rect(99, 12);
+finally
+try
+event
+ToString
+override
+sealed
+virtual
+System
+System.Collections
+Main
+using
+using System;
+using System.IO;
+const
+FileStream
+typeof
+for(int i = 0; i < array.Length; i++){}
+explicit
+implicit
+\'
+\"
+\\
+\0
+\a
+\b
+\f
+\n
+\r
+\t
+\v
+\x
+\u
+\U
+operator
